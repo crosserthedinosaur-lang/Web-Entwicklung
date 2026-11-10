@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/mein-projekt/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/mein-projekt/app/Config" isTestSource="false" packagePrefix="Config\" />
+      <sourceFolder url="file://$MODULE_DIR$/mein-projekt/tests/_support" isTestSource="true" packagePrefix="Tests\Support\" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/codeigniter4/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/fakerphp/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/laminas/laminas-escaper" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/mikey179/vfsstream" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/mein-projekt/vendor/theseer/tokenizer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
